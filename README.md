@@ -1,4 +1,4 @@
-# 🎬 Movie Correlation Analysis (Python Portfolio Project)
+# 🎬 Movie Correlation Analysis
 
 ## 📌 Executive Summary
 This project analyzes a movie industry dataset to uncover the key factors influencing box office success. Using Python, the analysis focuses on identifying correlations between variables such as budget, votes, and revenue.  
